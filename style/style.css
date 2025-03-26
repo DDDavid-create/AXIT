@@ -285,6 +285,7 @@ form{
 .section-5{
     background-color: #f5f5f5;
     display: flex;
+    height: auto;
     padding: 80px 40px;
 }
 
