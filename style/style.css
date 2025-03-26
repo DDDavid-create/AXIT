@@ -7,6 +7,10 @@
     font-family: "Open Sans", sans-serif;
 }
 
+p{
+    color: #808080;
+}
+
 /*HEADER*/
 header{
     padding: 20px 50px;
@@ -40,6 +44,10 @@ li{
     display: flex;
     padding: 100px 20px;
     height: auto;
+}
+
+#section-1 p{
+    color: #dddddd;
 }
 
 #section-1-1{
@@ -242,7 +250,7 @@ form{
     color: #808080;
 }
 
-#section-4-line{
+.section-line{
     background-color: #ff8b38;
     height: 3px;
     width: 70px;
@@ -271,4 +279,25 @@ form{
 
 .sublist-icon img{
     height: 40px;
+}
+
+/*SECTION-5*/
+.section-5{
+    background-color: #f5f5f5;
+    display: flex;
+    padding: 80px 40px;
+}
+
+.section-5-info {
+    width: 50%;
+}
+
+.section-5-image{
+    width: 50%;
+    display: flex;
+    justify-content: center;
+}
+
+.section-5-image img{
+    box-shadow: 0px 2px 8px 0px #000000;
 }
