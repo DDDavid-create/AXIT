@@ -91,7 +91,7 @@ li{
 }
 
 span{
-    color: #ffa650;
+    color: #ff8b38;
 }
 
 input{
@@ -108,7 +108,7 @@ form{
 
 #form-btn{
     margin-top: 30px;
-    background-color: #ffa650;
+    background-color: #ff8b38;
     color: #ffffff;
     border: none;
     width: 100%;
@@ -165,14 +165,14 @@ form{
 .tab{
     width: 140px;
     cursor: pointer;
-    background-color: #000000;
+    background-color: #333333;
     border: none;
     color: #f5f5f5;
     height: 150px;
 }
 
 .tab:hover{
-    background-color: #ffa650;
+    background-color: #ff8b38;
 }
 
 #section-3-text{
@@ -191,13 +191,13 @@ form{
 }
 
 #btn-section-3{
-    background-color: #ffa650;
+    background-color: #ff8b38;
     border: none;
     box-shadow: 0px 0px 2px 0px #000000;
     border-radius: 2px;
     color: #f5f5f5;
     width: 120px;
-    height: 30px;
+    height: 40px;
 }
 
 #image{
@@ -213,3 +213,62 @@ form{
 }
 
 /*SECTION 4*/
+#section-4{
+    padding: 80px 50px;
+    height: max-content;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+#section-4-image{
+    width: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#section-4-image img{
+    box-shadow: 0px 2px 8px 0px #000000;
+    height: 300px;
+}
+
+#section-4-info{
+    padding: 10px;
+    padding-right: 100px;
+    width: 50%;
+}
+
+#section-4-info p{
+    color: #808080;
+}
+
+#section-4-line{
+    background-color: #ff8b38;
+    height: 3px;
+    width: 70px;
+    margin: 30px 0px;
+}
+
+#section-4-text p{
+    padding-bottom: 30px;
+}
+
+.sublist{
+    display: flex;
+}
+
+.dif{
+    margin-bottom: 20px;
+}
+
+#sublist-section{
+    padding: 10px 0px;
+}
+
+.sublist-icon{
+    padding-right: 30px;
+}
+
+.sublist-icon img{
+    height: 40px;
+}
