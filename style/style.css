@@ -345,3 +345,84 @@ form{
     text-align: center;
     margin-top: 10px;
 }
+
+/*SECTION-7*/
+.section-7{
+    background-color: #f5f5f5;
+    padding: 60px 20px;
+    display: grid;
+    justify-items: center;
+}
+
+.section-7-1{
+    padding: 20px 10px;
+    display: grid;
+    justify-items: center;
+}
+
+
+.section-7-cartas{
+    height: auto;
+    padding: 10px;
+    display: flex;
+    align-items: flex-end;
+    gap: 20px;
+}
+
+.carta{
+    background-color: #ffffff;
+    border-radius: 5px;
+    height: auto;
+}
+
+.carta-title{
+    background-color: #333333;
+    padding: 20px;
+    text-align: center;
+    color: #f5f5f5;
+    border-bottom: solid 1px #f5f5f5;
+}
+
+.carta-price{
+    background-color: #333333;
+    text-align: center;
+    padding: 10px;
+    border-bottom: solid 3px #ff8b38;
+}
+
+#price{
+    color: #f5f5f5;
+    font-size: 60px;
+    font-weight: 600;
+}
+
+.carta-span{
+    font-size: x-large;
+    color: #f5f5f5;
+}
+
+.carta-line{
+    background-color: #ff8b38;
+    height: 3px;
+}
+
+#sale{
+    text-align: center;
+    align-content: center;
+    text-transform: uppercase;
+    background-color: #ff8b38;
+    color: #f5f5f5;
+    font-weight: bold;
+    height: 30px;
+}
+
+.carta-list{
+    padding: 10px 20px;
+    list-style: none;
+    text-align: center;
+    color: #808080;
+}
+
+.li-carta{
+    text-transform: uppercase;
+}
