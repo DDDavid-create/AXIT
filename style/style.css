@@ -486,3 +486,39 @@ form{
     border-radius: 50px;
     margin-right: 20px;
 }
+
+/*SECTION 9*/
+.section-9{
+    background-image: linear-gradient(
+        rgba(0,0,0,0.2), 
+        rgba(0,0,0,0.5)),
+    url(../assets/images/bg2.png);
+    padding: 60px 20px;
+    color: #ffffff;
+    justify-items: center;
+}
+
+.section-9 h2{
+    text-transform: uppercase;
+}
+
+.section-9 p{
+    margin: 20px 0px;
+    color: #dddddd;
+    line-height: 2;
+}
+
+.s9{
+    background-color: #f5f5f5;
+    margin: 20px 0px;
+}
+
+#download-btn-s9{
+    background-color: transparent;
+    color: #ffffff;
+    border: solid 3px #ffffff;
+    border-radius: 2px;
+    font-weight: bold;
+    width: 150px;
+    height: 40px;
+}
