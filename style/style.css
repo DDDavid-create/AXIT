@@ -826,6 +826,10 @@ footer p{
         text-align: justify;
     }
 
+    #section-form{
+        width: 100%;
+    }
+
     /*SECTION 2*/
     #section-2-SM img{
         width: max-content;
