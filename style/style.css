@@ -825,4 +825,11 @@ footer p{
         width: 100%;
         text-align: justify;
     }
+
+    /*SECTION 2*/
+    #section-2-SM img{
+        width: max-content;
+    }
+
+    
 }
