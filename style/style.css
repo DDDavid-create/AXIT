@@ -867,11 +867,25 @@ footer p{
     }
 
     /*SECTION 5*/
-.section-5-image{
-    width: 100%;
-}
+    .section-5-image{
+        width: 100%;
+    }
 
     .section-5-image img{
         width: 100%;
+    }
+
+    /*SECTION 6*/
+    .section-6-2{
+        display: grid;
+        justify-items: center;
+        padding: 20px;
+    }
+    .subsection{
+        width: 100%;
+    }
+
+    .subsection p{
+        text-align: justify;
     }
 }
