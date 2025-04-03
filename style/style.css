@@ -931,5 +931,9 @@ footer p{
 }
 
 @media (max-width: 480px){
-    
+    /*HEADER*/
+    nav{
+        display: grid;
+        justify-items: center;
+    }
 }
