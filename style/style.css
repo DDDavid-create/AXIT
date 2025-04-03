@@ -931,5 +931,37 @@ footer p{
 }
 
 @media (max-width: 480px){
-    
+    /*HEADER*/
+    nav{
+        display: grid;
+        justify-items: center;
+    }
+
+    /*SECTION 8*/
+    .section-8{
+        padding: 50px 10px;
+    }
+
+    .section-8-1{
+        width: 100%;
+        text-align: center;
+    }
+
+    .section-8-customers{
+        padding: 10px;
+    }
+
+    .customer-rol{
+        width: max-content;
+    }
+
+    /*SECTION 9*/
+    .section-9 p{
+        text-align: justify;
+    }
+
+    /*SECTION 10*/
+    .title-s10 p{
+        text-align: justify;
+    }
 }
