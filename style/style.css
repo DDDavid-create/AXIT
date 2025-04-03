@@ -859,4 +859,10 @@ footer p{
         width: auto;
         height: auto;
     }
+
+    /*SECTION 4*/
+    #section-4-image img{
+        width: 100%;
+        
+    }
 }
