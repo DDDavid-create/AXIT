@@ -815,6 +815,23 @@ footer p{
 }
 
 @media (max-width: 768px){
+    /*HEADER*/
+    header{
+        padding: 40px 20px;
+        display: grid;
+        justify-content: center;
+        justify-items: center;
+    }
+
+    header li{
+        padding: 10px;
+    }
+
+    #nav-bar{
+        padding: 10px;
+        margin-top: 20px;
+    }
+
     /*SECTION 1*/
     #section-1-1{
         display: grid;
