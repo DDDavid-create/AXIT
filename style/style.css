@@ -831,5 +831,32 @@ footer p{
         width: max-content;
     }
 
-    
+    /*SECTION 3*/
+    #section-3{
+        display: grid;
+        justify-items: center;
+        width: 100%;
+    }
+
+    #tabs{
+        display: flex;
+        flex-direction: row;
+        width: 100%;
+        justify-content: center;
+        padding: 10px;
+    }
+
+    .tab{
+        width: 100%;
+    }
+
+    #section-3-text{
+        padding: 30px 10px;
+        width: 100%;
+    }
+
+    #image img{
+        width: auto;
+        height: auto;
+    }
 }
