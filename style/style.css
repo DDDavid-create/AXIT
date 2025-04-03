@@ -955,5 +955,8 @@ footer p{
         width: max-content;
     }
 
-    /**/
+    /*SECTION 9*/
+    .section-9 p{
+        text-align: justify;
+    }
 }
