@@ -813,3 +813,16 @@ footer p{
     }
 
 }
+
+@media (max-width: 768px){
+    /*SECTION 1*/
+    #section-1-1{
+        display: grid;
+        text-align: center;
+    }
+
+    #section-1-text{
+        width: 100%;
+        text-align: justify;
+    }
+}
