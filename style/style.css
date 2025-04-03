@@ -923,4 +923,9 @@ footer p{
     .contact{
         padding: 20px 10px;
     }
+
+    /*FOOTER*/
+    .redes{
+        width: 100%;
+    }
 }
