@@ -865,4 +865,13 @@ footer p{
         width: 100%;
         
     }
+
+    /*SECTION 5*/
+.section-5-image{
+    width: 100%;
+}
+
+    .section-5-image img{
+        width: 100%;
+    }
 }
